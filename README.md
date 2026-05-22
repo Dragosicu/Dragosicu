@@ -1,8 +1,16 @@
-# Dragosicu
+  _____                            _            
+ |  __ \                          (_)           
+ | |  | |_ __ __ _  __ _  ___  ___ _  ___ _   _ 
+ | |  | | '__/ _` |/ _` |/ _ \/ __| |/ __| | | |
+ | |__| | | | (_| | (_| | (_) \__ \ | (__| |_| |
+ |_____/|_|  \__,_|\__, |\___/|___/_|\___|\__,_|
+                   __/ |                       
+                  |___/                        
+
 
 ```bash
 Learning Cybersecurity
-Red Team / Blue Team
+Blue team & Red Team hacking
 Linux enthusiast
 ```
 
