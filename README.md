@@ -18,8 +18,8 @@ Linux enthusiast
 ![CachyOS](https://img.shields.io/badge/CachyOS-0d1117?style=for-the-badge)
 ![Debian](https://img.shields.io/badge/Debian-0d1117?style=for-the-badge&logo=debian&logoColor=white)
 
-Favourite DE's: kde plasma, xfce4
-Favourite WM's: i3wm
+### Favourite DE's: kde plasma, xfce4
+### Favourite WM's: i3wm
 
 ## Learning
 
