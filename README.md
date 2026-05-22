@@ -15,9 +15,8 @@ Linux enthusiast
 
 ## Distros
 
-Daily Driving: ![CachyOS](https://img.shields.io/badge/CachyOS-0d1117?style=for-the-badge)
-Cybersecurity: ![Debian](https://img.shields.io/badge/Debian-0d1117?style=for-the-badge&logo=debian&logoColor=white)
-Also distro-hopping
+![CachyOS](https://img.shields.io/badge/CachyOS-0d1117?style=for-the-badge)
+![Debian](https://img.shields.io/badge/Debian-0d1117?style=for-the-badge&logo=debian&logoColor=white)
 
 ## Learning
 
