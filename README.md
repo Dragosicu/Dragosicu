@@ -15,20 +15,16 @@ Linux enthusiast
 
 ## Distros
 
-![CachyOS](https://img.shields.io/badge/CachyOS-0d1117?style=for-the-badge)
-![Debian](https://img.shields.io/badge/Debian-0d1117?style=for-the-badge&logo=debian&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch-0d1117?style=for-the-badge&logo=arch-linux&logoColor=white)
+Daily Driving: ![CachyOS](https://img.shields.io/badge/CachyOS-0d1117?style=for-the-badge)
+Cybersecurity: ![Debian](https://img.shields.io/badge/Debian-0d1117?style=for-the-badge&logo=debian&logoColor=white)
+Also distro-hopping
 
 ## Learning
 
 - Pentesting
-- Networking
+- Offensive & Defensive security
 - Malware analysis
-- Python scripting
-- Linux internals
 
-## Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=Dragosicu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragosicu&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+## Focusing on
+- Improving linux knowledge
+- Getting better at C and Python
