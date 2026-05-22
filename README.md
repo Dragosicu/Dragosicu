@@ -1,7 +1,7 @@
 # Dragos
 
 ```bash
-Cybersecurity student
+Learning Cybersecurity
 Red Team / Blue Team
 Linux enthusiast
 ```
@@ -18,6 +18,9 @@ Linux enthusiast
 ![CachyOS](https://img.shields.io/badge/CachyOS-0d1117?style=for-the-badge)
 ![Debian](https://img.shields.io/badge/Debian-0d1117?style=for-the-badge&logo=debian&logoColor=white)
 
+Favourite DE's: kde plasma, xfce4
+Favourite WM's: i3wm
+
 ## Learning
 
 - Pentesting
@@ -27,3 +30,6 @@ Linux enthusiast
 ## Focusing on
 - Improving linux knowledge
 - Getting better at C and Python
+
+## Future projects
+- Coming soon...
