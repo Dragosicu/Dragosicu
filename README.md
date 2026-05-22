@@ -1,16 +1,34 @@
-## Hi there 👋
+# Dragos
 
-<!--
-**Dragosicu/Dragosicu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+Cybersecurity student
+Red Team / Blue Team
+Linux enthusiast
+```
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white)
+
+## Distros
+
+![CachyOS](https://img.shields.io/badge/CachyOS-0d1117?style=for-the-badge)
+![Debian](https://img.shields.io/badge/Debian-0d1117?style=for-the-badge&logo=debian&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-0d1117?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+## Learning
+
+- Pentesting
+- Networking
+- Malware analysis
+- Python scripting
+- Linux internals
+
+## Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Dragosicu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragosicu&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
