@@ -8,9 +8,9 @@
 </pre>
   
 ```bash
-Learning Cybersecurity
-Blue team & Red Team hacking
-Linux enthusiast
+Learning Cybersecurity & Hacking
+OffSec / DefSec
+Linux user
 ```
 
 ## Stack
@@ -25,7 +25,6 @@ Linux enthusiast
 ![CachyOS](https://img.shields.io/badge/CachyOS-0d1117?style=for-the-badge)
 ![Debian](https://img.shields.io/badge/Debian-0d1117?style=for-the-badge&logo=debian&logoColor=white)
 
-Favourite DE's: KDE Plasma, XFCE4 
 
 ## Learning
 
