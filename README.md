@@ -8,8 +8,8 @@
 </pre>
 
 ```bash
-Learning Cybersecurity
-OffSec / DefSec
+Learning Cybersecurity (Offsec & Defsec)
+Netoworking
 Linux user (CachyOS)
 ```
 
